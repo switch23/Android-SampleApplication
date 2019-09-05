@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SampleApplication</string>
+    <string name="error_unknown_host">ホストが見つかりません</string>
+    <string name="error_connection">ネットワーク接続エラー</string>
+    <string name="error_socket_time_out">接続がタイムアウトしました</string>
+    <string name="error_not_found">データが存在しません</string>
+    <string name="error_not_acceptable">データ形式が許可されていません</string>
+    <string name="error_request_time_out">リクエストが終了しませんでした</string>
+    <string name="error_conflict">コンフリクトエラー</string>
+    <string name="error_transmission">通信エラー</string>
+    <string name="list">リスト</string>
+    <string name="grid">グリッド</string>
+    <string name="pager">ページャー</string>
+    <string name="page1">ページ1</string>
+    <string name="page2">ページ2</string>
+</resources>
